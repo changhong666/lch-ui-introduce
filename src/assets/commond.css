@@ -1,0 +1,47 @@
+a{
+    text-decoration:none;
+}
+.componentInc {
+    margin-left: 150px;
+    width: 777px;
+    border: 1px solid #ebebeb;
+    border-radius: 3px;
+    transition: 0.2s;
+  }
+  .xiangge {
+    margin: 10px;
+    padding-top: 10px;
+  }
+  .displayBar {
+    text-align: center;
+    padding-top: 10px;
+    width: 777px;
+    height: 36px;
+    color: #a7bac2;
+    border-top: 1px solid #eaeefb;
+  }
+  .displayBar:hover {
+    background: #eff9f2;
+    color: #87cc9c;
+  }
+  .daimaqu {
+    resize: none;
+    border: none;
+    outline: none;
+    width: 777px;
+    font-size: 13px;
+    color: #3182bd;
+    background-color: rgba(27, 31, 35, 0.05);
+    font-family: source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace;
+  }
+  /* .zhushiqu{
+    resize: none;
+    border: none;
+    outline: none;
+    width: 737px;
+    font-size: 15px;
+    color: #5e6d82;
+    background-color: #fff;
+    font-family: source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace;
+    border: 20px solid rgba(27, 31, 35, 0.05);
+  } */
